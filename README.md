@@ -1,5 +1,4 @@
-![quad_control_robustness_pd](https://user-images.githubusercontent.com/25280664/139688291-e4c98a22-85d4-4f39-b70a-39894d5d02dd.gif)
-
+![quad_control_robustness_comp](https://user-images.githubusercontent.com/25280664/139688386-69119312-b051-4505-927e-072b9b1deba8.gif)
 
 # The C++ Project Readme #
 
