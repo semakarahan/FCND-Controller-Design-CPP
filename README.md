@@ -1,3 +1,6 @@
+![quad_control_robustness_pd](https://user-images.githubusercontent.com/25280664/139688291-e4c98a22-85d4-4f39-b70a-39894d5d02dd.gif)
+
+
 # The C++ Project Readme #
 
 This is the readme for the C++ project.
