@@ -1,3 +1,5 @@
+![control_architecture](https://user-images.githubusercontent.com/25280664/139693756-e05380a9-8332-4d0f-ad41-9f80e891261a.JPG)
+
 ![quad_control_robustness_comp](https://user-images.githubusercontent.com/25280664/139688386-69119312-b051-4505-927e-072b9b1deba8.gif)
 
 # The C++ Project Readme #
